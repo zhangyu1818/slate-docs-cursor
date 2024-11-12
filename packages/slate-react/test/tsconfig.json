@@ -1,4 +1,0 @@
-{
-  "extends": "../../../config/typescript/tsconfig.json",
-  "references": [{ "path": "../" }]
-}
