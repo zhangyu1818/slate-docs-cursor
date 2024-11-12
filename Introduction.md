@@ -73,10 +73,6 @@ If you're using Slate for the first time, check out the [Getting Started](http:/
 
 If even that's not enough, you can always [read the source itself](https://github.com/ianstormtaylor/slate/tree/master/packages), which is heavily commented.
 
-There are also translations of the documentation into other languages:
-
-- [中文](https://doodlewind.github.io/slate-doc-cn/)
-
 If you're maintaining a translation, feel free to pull request it here!
 
 ## Contributing!
